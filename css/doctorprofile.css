@@ -1,0 +1,68 @@
+html{
+    height: 100%;
+    
+}
+body{
+    padding: 0;
+    margin: 0;
+    min-height: 100%;
+    background-color: #e9f8f6;
+    backdrop-filter: blur(3px);
+}
+.card {
+    border-radius: 10px;
+}
+.cardy{
+    width: 620px;
+}
+.checked {
+        color: royalblue;
+ }
+
+.form-control {
+    border: 1px solid #cfd1d8;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    font-size: .825rem;
+    background: #ffffff;
+    color: #2e323c;
+}
+.user-name{
+    text-align: center;
+}
+.about{
+    text-align: center;
+    margin-top: 50px;
+}
+.container{
+    margin-top: 7px;
+    padding: 38px;
+    width: 1000px;
+    background-color: rgb(255, 255, 255,0.7);
+    block-size: 50%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+#cards{
+    background-color: rgb(101, 191, 233);
+    text-align: center;
+    /*width: 160px;*/
+}
+#c1{
+    padding: 10px; 
+    /*height:680px;*/
+}
+#c2{
+   padding: 10px;
+
+}
+.navbar {
+    padding: 15px;
+    font-size: medium;
+}
+#file{
+    visibility:hidden;
+    width: 100px;
+}
